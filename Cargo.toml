@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "set_field",
+    "set_field_macro",
+]
+resolver = "2"
