@@ -37,9 +37,9 @@ fn test() {
 }
 ```
 
-* set_field returns true on success.
-* set_field returns false if field doesn't exist.
-* set_field returns false if you attempt to set a field to the wrong type.
+* set_field returns true on success
+* set_field returns false if field doesn't exist
+* set_field returns false if you attempt to set a field to the wrong type
 
 # Expanded Foo struct from above
 
