@@ -81,4 +81,6 @@ impl SetField<Option<bool>> for Foo {
 
 # Dependencies
 
-[syn](https://crates.io/crates/syn) and [quote](https://crates.io/crates/quote)
+* [set_field_macro](https://crates.io/crates/set_field_macro)
+* [syn](https://crates.io/crates/syn)
+* [quote](https://crates.io/crates/quote)
